@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mario-run/static/css/main.0b3227aa.chunk.css",
+    "main.js": "/mario-run/static/js/main.1e299b48.chunk.js",
+    "main.js.map": "/mario-run/static/js/main.1e299b48.chunk.js.map",
+    "runtime-main.js": "/mario-run/static/js/runtime-main.5762314c.js",
+    "runtime-main.js.map": "/mario-run/static/js/runtime-main.5762314c.js.map",
+    "static/js/2.fe1adc6c.chunk.js": "/mario-run/static/js/2.fe1adc6c.chunk.js",
+    "static/js/2.fe1adc6c.chunk.js.map": "/mario-run/static/js/2.fe1adc6c.chunk.js.map",
+    "index.html": "/mario-run/index.html",
+    "static/css/main.0b3227aa.chunk.css.map": "/mario-run/static/css/main.0b3227aa.chunk.css.map",
+    "static/js/2.fe1adc6c.chunk.js.LICENSE.txt": "/mario-run/static/js/2.fe1adc6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5762314c.js",
+    "static/js/2.fe1adc6c.chunk.js",
+    "static/css/main.0b3227aa.chunk.css",
+    "static/js/main.1e299b48.chunk.js"
+  ]
+}
